@@ -1,2 +1,2 @@
-# CalculadoraDIO
- Resolução do Desafio de Projeto da DIO para testes unitários com TDD e C#
+# DIO Calculator
+DIO's Project Challenge: "Protecting Your Code with TDD and Unit Tests Using .NET Core"
